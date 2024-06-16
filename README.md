@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - Some of my projects can be found here: https://github.com/lorenzoceccanti?tab=repositories
 
 [![](http://example.com/path/image)](#)
-
 <p align="left">
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
 </p>
