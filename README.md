@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Graduated in Computer Engineering, University of Pisa, 2023
-- I'm currently achieving a MSc in Artificial Intelligence and Data Engineering at University of Pisa
+- I'm currently achieving a MSc in Artificial Intelligence and Data Engineering
 - Some of my projects can be found here: https://github.com/lorenzoceccanti?tab=repositories
 
 [![](http://example.com/path/image)](#)
