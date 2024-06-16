@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - I'm currently achieving a MSc in Artificial Intelligence and Data Engineering at University of Pisa
 - Some of my projects can be found here: https://github.com/lorenzoceccanti?tab=repositories
 
+[![](http://example.com/path/image)](#)
+
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
 </p>
