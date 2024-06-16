@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - Some of my projects can be found here: https://github.com/lorenzoceccanti?tab=repositories
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+  </picture>
 </p>
