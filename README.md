@@ -33,6 +33,6 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40"/></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4J" width="40" height="40"/></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-    <a href="#"><img src="https://avatars.githubusercontent.com/u/6643264?s=200&v=4" alt="arista" width="40" height="40"/></a>
+    <a href="#"><img src="https://www.itential.com/wp-content/uploads/2024/09/Partner-Logos_Arista-EOS.png" alt="arista" width="40" height="20"/></a>
     
 </p>
