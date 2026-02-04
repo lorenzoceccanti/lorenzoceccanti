@@ -20,22 +20,22 @@ Here are some ideas to get you started:
 
 [![](http://example.com/path/image)](#)
 <p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="py" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="py" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="50" height="50"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="#"><img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="assembler" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4J" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></a>
+    <a href="#"><img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="assembler" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4J" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="50" height="50"/></a>
     <a href="#"><img src="https://www.itential.com/wp-content/uploads/2024/09/Partner-Logos_Arista-EOS.png" alt="arista" width="50" height="40"/></a>
     
 </p>
