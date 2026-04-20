@@ -32,10 +32,12 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="50" height="50"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="50" height="50"/></a>    
+</p>
+
+<p align="center">
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4J" width="50" height="50"/></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="50" height="50"/></a>
     <a href="#"><img src="https://www.itential.com/wp-content/uploads/2024/09/Partner-Logos_Arista-EOS.png" alt="arista" width="50" height="40"/></a>
-    
 </p>
