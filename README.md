@@ -55,7 +55,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop"/>
     </td>
     <td align="center" width="60">
-      <img src="https://www.itential.com/wp-content/uploads/2024/09/Partner-Logos_Arista-EOS.png" width="50" height="50" alt="Arista cEOS"/>
+      <img src="https://www.itential.com/wp-content/uploads/2024/09/Partner-Logos_Arista-EOS.png" width="60" height="40" alt="Arista cEOS"/>
     </td>
   </tr>
 </table>
