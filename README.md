@@ -1,7 +1,7 @@
 ## I'm Lorenzo Ceccanti
 
 - Graduated in Computer Engineering, University of Pisa, 2023
-- I'm currently pursuing an MSc in Artificial Intelligence and Data Engineering
+- I'm currently pursuing an MSc in [Artificial Intelligence and Data Engineering](https://computer.ing.unipi.it/en/study-plan-of-the-masters-degree-in-computer-engineering-a-a-2024-25/)
 - Some of my projects can be found here: [GitHub repositories](https://github.com/lorenzoceccanti?tab=repositories)
 
 ---
